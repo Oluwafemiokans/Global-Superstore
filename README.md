@@ -33,3 +33,9 @@ In the initial data preparation phase, we performed the following
 3. What is the total sales and total profit made
 
 4. Yearly and Monthly trend per sales
+
+## Recommendations
+
+1. I recommend delving into sales trends across different regions to identify growth opportunities and potential market expansion strategies.
+
+2. Analyzing customer segments, product performance, and shipping methods can help optimize operations and enhance customer satisfaction.
